@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/GamePanel.qml</file>
+        <file>qml/ContentPanel.qml</file>
+        <file>qml/ContorlPanel.qml</file>
+        <file>qml/Slider.qml</file>
+        <file>qml/Divider.qml</file>
+        <file>images/Dropdown_arrows.png</file>
+        <file>images/icon_BackArrow.png</file>
+        <file>images/icon_Folder.png</file>
+        <file>images/icon_Menu.png</file>
+        <file>images/qt-logo.png</file>
+        <file>images/Slider_bar.png</file>
+        <file>images/Slider_handle.png</file>
+        <file>images/Triangle_bottom.png</file>
+        <file>images/Triangle_Top.png</file>
+        <file>qml/Curtain.qml</file>
+        <file>qml/qml1/Candy.qml</file>
+        <file>qml/qml1/GameQML.qml</file>
+        <file>qml/qml1/Snake.qml</file>
+    </qresource>
+</RCC>
